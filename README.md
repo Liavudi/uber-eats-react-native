@@ -6,10 +6,10 @@
   you can search your favorite restaurant by writing the city location
   you can choose food from the menu, view cart and place orders to the database and retrieve them.
   <p>this app was implemented by using: </p>
-  * react-native
-  * cloud firebase database
-  * google locations api
-  * redux
+  - react-native
+  - cloud firebase database
+  - google locations api
+  - redux
 
 <p>
   <!-- iOS -->
