@@ -2,9 +2,9 @@
 
 ## Description
 
-  This is an uber eats app built in react native
-  you can search your favorite restaurant by writing the city location
-  you can choose food from the menu, view cart and place orders to the database and retrieve them.
+  <p>This is an uber eats app built in react native,
+  you can search your favorite restaurant by writing the city location.
+  You can choose food from the menu, view cart, place orders to the database and retrieve them. </p>
   <p>this app was implemented by using: </p>
   - React-native
   - Cloud firebase database
