@@ -6,7 +6,7 @@ import RestaurantItems, {localRestaurants} from '../components/home/restaurant-i
 import BottomTabs from '../components/home/bottom-tabs'
 import { Divider } from 'react-native-elements/dist/divider/Divider'
 import safeAndroidView from '../components/safe-android-view'
-const YELP_API_KEY = "9uCUs_xoMP-Nue8vNc8D_kosDbtUQFiv9mIBl88D5735e7JrrlosVZrbcXZ0vpjkzIoRRSNJ8Txv9jZkQSQgbxlryvBYHPLper-dmUa1TN4GkTrO6WNWew2nN11-YXYx"
+const YELP_API_KEY = "PUT YOUR KEY"
 
 export default function Home( {navigation}) {
   const [restaurantData, setRestaurantData] = useState(localRestaurants);
