@@ -1,4 +1,15 @@
-# My Universal React Project
+# My Uber Eats React Native App
+
+## Description
+
+  This is an uber eats app built in react native
+  you can search your favorite restaurant by writing the city location
+  you can choose food from the menu, view cart and place orders to the database and retrieve them.
+  this app was implemented by using:
+  react-native
+  cloud firebase database
+  google locations api
+  redux
 
 <p>
   <!-- iOS -->
@@ -24,6 +35,9 @@
   - iOS: [Client iOS](https://itunes.apple.com/app/apple-store/id982107779)
   - Android: [Client Android](https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=blankexample)
   - Web: Any web browser
+  - Get your own firebase database details and replace them with the firebaseConfig in the firebase.js file
+    when creating a collection in the firebase name it "orders" to make it work.
+
 
 ## Adding Native Code
 
@@ -38,7 +52,7 @@ This project can be run from a web browser or the Expo client app. You may find 
 - Deploy the website using this guide: [Web deployment](https://docs.expo.dev/distribution/publishing-websites/).
 
 ## 📝 Notes
-
+  
 - Learn more about [Universal React](https://docs.expo.dev/).
 - See what API and components are [available in the React runtimes](https://docs.expo.dev/versions/latest/).
 - Find out more about developing apps and websites: [Guides](https://docs.expo.dev/guides/).
