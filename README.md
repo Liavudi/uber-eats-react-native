@@ -37,6 +37,9 @@
   - Web: Any web browser
   - Get your own firebase database details and replace them with the firebaseConfig in the firebase.js file
     when creating a collection in the firebase name it "orders" to make it work.
+  - Put your google api key at uber-eats-react-native/components/home/search-bar.js GooglePlacesAutocomplete component.
+  - Put your Yelp api key at uber-eats-react-native/screens/home.js YELP_API_KEY variable
+    
 
 
 ## Adding Native Code
